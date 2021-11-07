@@ -14,9 +14,9 @@ This data is transcribed from original crime reports that are typed on paper and
 
 Data Source: [Kaggle](https://www.kaggle.com/chaitanyakck/crime-data-from-2020-to-present)
 
-#Dashboard Visual:
+### Dashboard Visual:
 
--I also created an app with plotly Dash that showcases some graphs that I made. A short demo of the app looks like this:
+- I also created an app with plotly Dash that showcases some graphs that I made. A short demo of the app looks like this:
 
 ![alt text](app_demo1.png "LA Crimes App Demo1")
 
