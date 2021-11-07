@@ -13,3 +13,11 @@ _Violence can negatively affect women’s physical, mental, sexual and reproduct
 This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data.
 
 Data Source: [Kaggle](https://www.kaggle.com/chaitanyakck/crime-data-from-2020-to-present)
+
+#Dashboard Visual:
+
+-I also created an app with plotly Dash that showcases some graphs that I made. A short demo of the app looks like this:
+
+![alt text](app_demo1.png "LA Crimes App Demo1")
+
+![alt text](app_demo2.png "LA Crimes App Demo2")
